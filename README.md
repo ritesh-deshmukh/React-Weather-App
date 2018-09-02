@@ -1,6 +1,6 @@
 <h1><b>Weather WebApp in React and Bootstrap</b></h1>
 
-<h2><b>Link: </b></h2>
+<h2><b>Link: https://limitless-brook-23587.herokuapp.com</b></h2>
 
 <i>Download/Clone -> npm install -> npm start -> add your api key</i>
 
